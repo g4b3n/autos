@@ -1,0 +1,66 @@
+0. Oldja meg grafikusan az alábbi feladatot. (C#)
+-----------------
+1. Egy autó üzleti ügyben megtett 650 km-t. A fő formon, jelenítse meg az értéket, tárolja el. 
+-----------------
+2. Az autó benzin üzemű, 1900 cm3-s , számítsa ki a NAV normák alapján az elszámolható üzemanyagot literben, és az értékét Ft-ban. 
+A fő  formon jelenítse meg az autóra vonatkozó cm3-t, a nav fogyasztási és üzemanyagár normáját, és az elszámolható költséget. 
+Készítsen lehetőséget arra hogy később egy másik autónál lehessen gázolaj üzemű autóra is kiszámolni a fenti értékeket. 
+-----------------
+3. Hozzon létre egy Információk nevű gombot, megnyomására jelenítse meg az alábbi vonatkozó nav szabályokat tájékoztató jelleggel.
+(Vagy külön formon vagy egy üzenettel)
+
+"
+A benzinüzemű gépkocsi alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
+
+1000 cm3-ig
+
+7,6 liter/100 kilométer
+
+1001-1500 cm3-ig
+
+8,6 liter/100 kilométer
+
+1501-2000 cm3-ig
+
+9,5 liter/100 kilométer
+
+2001-3000 cm3-ig
+
+11,4 liter/100 kilométer
+
+3001 cm3 felett
+
+13,3 liter/100 kilométer
+
+A gázolajüzemű gépkocsi alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
+
+1500 cm3-ig
+
+5,7 liter/100 kilométer
+
+1501-2000 cm3-ig
+
+6,7 liter/100 kilométer
+
+2001-3000 cm3-ig
+
+7,6 liter/100 kilométer
+
+3001 cm3 felett
+
+9,5 liter/100 kilométer
+
+Üzemanyag normák: 
+Ólmozatlan motorbenzin ESZ-95 (Ft/l) : 402
+Gázolaj (Ft/l):  425
+"
+-----------------
+4. 
+A 2. és 3. pont segítségével jelenítsen meg, és számoljon ki mindent egy gázolaj üzemű autóra. 
+-----------------
+5. 
+A fő formon attól függően hogy mely típusú autóról van szó jelenítse meg egy benzinkúton használt benzin és gázolaj megkülönböztetésére használt
+képet vagy fotót.
+
+----------------- 
+

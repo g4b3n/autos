@@ -1,0 +1,10 @@
+C:\Users\g\source\repos\Autos\Autos\bin\Debug\Autos.exe.config
+C:\Users\g\source\repos\Autos\Autos\bin\Debug\Autos.exe
+C:\Users\g\source\repos\Autos\Autos\bin\Debug\Autos.pdb
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.csprojAssemblyReference.cache
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.Autos.resources
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.Properties.Resources.resources
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.csproj.GenerateResource.cache
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.exe
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.pdb
+C:\Users\g\source\repos\Autos\Autos\obj\Debug\Autos.Információk.resources
